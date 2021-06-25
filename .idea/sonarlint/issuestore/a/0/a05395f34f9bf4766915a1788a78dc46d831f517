@@ -1,0 +1,15 @@
+
+a
+java:S1192="LDefine a constant instead of duplicating this literal "List size: " 3 times.(Žˆ‡+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ýð›Çþÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ºÈ¡ªøÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(¸ïÐŸ
+M	java:S106="9Replace this use of System.out or System.err by a logger.(Žˆ‡+
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(¸ÿ™øÿÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(À»£Ý
+M	java:S106O"9Replace this use of System.out or System.err by a logger.(Žˆ‡+
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÕÑð
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(À»£Ý
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(ºô‹Ö
+M	java:S106m"9Replace this use of System.out or System.err by a logger.(Žˆ‡+
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(ë¼ÙÐúÿÿÿÿ
